@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    background:#374464;
+    font-family: 'Roboto';
+    font-size: 25px;
+    line-height: 40px;
+    position: relative;
+    width: 1427px;
+    height: 3072px;
+}
+.h1 {
+    position: absolute;
+    width: 204px;
+    height: 94px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 66px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-left: 20px;
+    padding-top: 70px;
+}
+.shapka {
+    position: absolute;
+    padding-left: 630px;
+    padding-top: 60px;
+}
+
+
+.kar1 {
+    position: absolute;
+    padding-left: 60px;
+    padding-top: 20px;
+}
+
+.kar2 {
+    position: absolute;
+    padding-left: 420px;
+    padding-top: 20px;
+}
+
+.kar3 {
+    position: absolute;
+    padding-left: 800px;
+    padding-top: 20px;
+}
+
+.kar4 {
+    position: absolute;
+    padding-left: 1180px;
+    padding-top: 20px;
+}
+
+
+.stroka {
+    height:700px;
+   padding-left: 0px; 
+     padding-bottom: 50px;
+}
