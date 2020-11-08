@@ -5,28 +5,20 @@ body {
     font-size: 25px;
     line-height: 40px;
     position: relative;
-    width: 1427px;
+    width: 1600px;
     height: 3072px;
 }
-.h1 {
+
+
+
+.shapka1 {
     position: absolute;
-    width: 204px;
-    height: 94px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 60px;
-    line-height: 66px;
-    text-align: center;
-    color: #FFFFFF;
-    padding-left: 20px;
-    padding-top: 70px;
+    top:-200px;
+    left:-70px;
 }
-.shapka {
-    position: absolute;
-    padding-left: 630px;
-    padding-top: 60px;
-}
+
+
+
 
 
 .kar1 {
@@ -34,28 +26,472 @@ body {
     padding-left: 60px;
     padding-top: 20px;
 }
-
 .kar2 {
     position: absolute;
     padding-left: 420px;
     padding-top: 20px;
 }
-
 .kar3 {
     position: absolute;
     padding-left: 800px;
     padding-top: 20px;
 }
-
 .kar4 {
     position: absolute;
     padding-left: 1180px;
     padding-top: 20px;
 }
-
-
 .stroka {
     height:700px;
-   padding-left: 0px; 
-     padding-bottom: 50px;
+    padding-left: 0px; 
+    bottom:10px
+    position: absolute;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.tablichka1zagolovok {
+    position: absolute;
+    padding-left: 410px;
+    padding-top: 60px;
+    font-family: Marvel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 48px;
+}
+.tablichka1tekst {
+    width: 330px;
+    height: 320px;
+    position: absolute;
+    padding-left: 300px;
+    padding-top: 110px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px; 
+}
+.knopka1 {
+    position: absolute;
+    padding-left: 380px;
+    padding-top: 350px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+}
+.knopka11 {
+     width: 140px;
+     background-color: #FFFFFF;
+     height: 35px;
+     border: 1px solid #000000;
+     border-radius: 45px;
+     transition-duration: 1.5s;
+}
+.knopka11:hover {
+    transform: scale(1.5,1.5);
+    background-color: azure;
+}
+.tablichkasdvig {
+    position: absolute;
+    padding-left: 60px;
+    top:740px;
+}
+
+
+
+
+
+
+
+
+
+
+.tablichkasdvig2 {
+    position: absolute;
+    padding-left: 743px;
+    top:800px;
+}
+.tablichka1zagolovok2 {
+    position: absolute;
+    padding-left: 455px;
+    padding-top: 5px;
+    font-family: Marvel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 48px;
+}
+.tablichka1tekst2 {
+    width: 330px;
+    height: 320px;
+    position: absolute;
+    padding-left: 345px;
+    padding-top: 55px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px; 
+}
+.knopka2 {
+    position: absolute;
+    padding-left: 390px;
+    padding-top: 350px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+}
+.knopka22 {
+     width: 140px;
+     background-color: #FFFFFF;
+     height: 35px;
+     border: 1px solid #000000;
+     border-radius: 45px;
+     transition-duration: 1.5s;
+}
+
+.knopka22:hover {
+    transform: scale(1.5,1.5);
+    background-color: azure;
+}
+
+
+
+
+
+
+.tablichkasdvig3 {
+    position: absolute;
+    padding-left: 60px;
+    top:1200px;
+}
+.tablichka1zagolovok3 {
+    position: absolute;
+    padding-left: 410px;
+    padding-top: 60px;
+    font-family: Marvel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 48px;
+}
+.tablichka1tekst3 {
+    width: 330px;
+    height: 320px;
+    position: absolute;
+    padding-left: 300px;
+    padding-top: 110px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px; 
+}
+.knopka3 {
+    position: absolute;
+    padding-left: 380px;
+    padding-top: 350px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+}
+.knopka33 {
+     width: 140px;
+     background-color: #FFFFFF;
+     height: 35px;
+     border: 1px solid #000000;
+     border-radius: 45px;
+     transition-duration: 1.5s;
+}
+.knopka33:hover {
+    transform: scale(1.5,1.5);
+    background-color: azure;
+}
+
+
+
+
+
+
+.tablichkasdvig4 {
+    position: absolute;
+    padding-left: 800px;
+    top:1200px;
+}
+.tablichka1zagolovok4 {
+    position: absolute;
+    padding-left: 410px;
+    padding-top: 60px;
+    font-family: Marvel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 48px;
+}
+.tablichka1tekst4 {
+    width: 330px;
+    height: 320px;
+    position: absolute;
+    padding-left: 300px;
+    padding-top: 110px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px; 
+}
+.knopka4 {
+    position: absolute;
+    padding-left: 380px;
+    padding-top: 350px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+}
+.knopka44 {
+     width: 140px;
+     background-color: #FFFFFF;
+     height: 35px;
+     border: 1px solid #000000;
+     border-radius: 45px;
+     transition-duration: 1.5s;
+}
+.knopka44:hover {
+    transform: scale(1.5,1.5);
+    background-color: azure;
+}
+
+
+
+
+.tablichkasdvig5 {
+    position: absolute;
+    padding-left: 60px;
+    top:1600px;
+}
+.tablichka1zagolovok5 {
+    position: absolute;
+    padding-left: 410px;
+    padding-top: 60px;
+    font-family: Marvel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 48px;
+}
+.tablichka1tekst5 {
+    width: 330px;
+    height: 320px;
+    position: absolute;
+    padding-left: 300px;
+    padding-top: 110px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px; 
+}
+.knopka5 {
+    position: absolute;
+    padding-left: 380px;
+    padding-top: 350px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+}
+.knopka55 {
+     width: 140px;
+     background-color: #FFFFFF;
+     height: 35px;
+     border: 1px solid #000000;
+     border-radius: 45px;
+     transition-duration: 1.5s;
+}
+.knopka55:hover {
+    transform: scale(1.5,1.5);
+    background-color: azure;
+}
+
+
+
+
+
+.tablichkasdvig6 {
+    position: absolute;
+    padding-left: 800px;
+    top:1600px;
+}
+.tablichka1zagolovok6 {
+    position: absolute;
+    padding-left: 410px;
+    padding-top: 60px;
+    font-family: Marvel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 48px;
+}
+.tablichka1tekst6 {
+    width: 330px;
+    height: 320px;
+    position: absolute;
+    padding-left: 300px;
+    padding-top: 110px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px; 
+}
+.knopka6 {
+    position: absolute;
+    padding-left: 380px;
+    padding-top: 350px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+}
+.knopka66 {
+     width: 140px;
+     background-color: #FFFFFF;
+     height: 35px;
+     border: 1px solid #000000;
+     border-radius: 45px;
+     transition-duration: 1.5s;
+}
+.knopka66:hover {
+    transform: scale(1.5,1.5);
+    background-color: azure;
+}
+
+
+
+
+.tablichkasdvig7 {
+    position: absolute;
+    padding-left: 60px;
+    top:2000px;
+}
+.tablichka1zagolovok7 {
+    position: absolute;
+    padding-left: 410px;
+    padding-top: 60px;
+    font-family: Marvel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 48px;
+}
+.tablichka1tekst7 {
+    width: 330px;
+    height: 320px;
+    position: absolute;
+    padding-left: 300px;
+    padding-top: 110px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px; 
+}
+.knopka7 {
+    position: absolute;
+    padding-left: 380px;
+    padding-top: 350px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+}
+.knopka77 {
+     width: 140px;
+     background-color: #FFFFFF;
+     height: 35px;
+     border: 1px solid #000000;
+     border-radius: 45px;
+     transition-duration: 1.5s;
+}
+.knopka77:hover {
+    transform: scale(1.5,1.5);
+    background-color: azure;
+}
+
+
+
+
+.tablichkasdvig8 {
+    position: absolute;
+    padding-left: 800px;
+    top:2000px;
+}
+.tablichka1zagolovok8 {
+    position: absolute;
+    padding-left: 410px;
+    padding-top: 60px;
+    font-family: Marvel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 48px;
+}
+.tablichka1tekst8 {
+    width: 330px;
+    height: 320px;
+    position: absolute;
+    padding-left: 300px;
+    padding-top: 110px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px; 
+}
+.knopka8 {
+    position: absolute;
+    padding-left: 380px;
+    padding-top: 350px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+}
+.knopka88 {
+     width: 140px;
+     background-color: #FFFFFF;
+     height: 35px;
+     border: 1px solid #000000;
+     border-radius: 45px;
+     transition-duration: 1.5s;
+}
+.knopka88:hover {
+    transform: scale(1.5,1.5);
+    background-color: azure;
+}
+
+
+
