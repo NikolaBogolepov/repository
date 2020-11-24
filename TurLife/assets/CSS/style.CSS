@@ -5,16 +5,19 @@ body {
     font-size: 25px;
     line-height: 40px;
     position: relative;
-    width: 1600px;
-    height: 3072px;
+    width: 1500px;
+    height: 1900px;
 }
 
-
+.shapka{
+  width: 1460px;  
+}
 
 .shapka1 {
     position: absolute;
-    top:-200px;
-    left:-70px;
+    top:20px;
+    left:590px;
+    width: 800px;
 }
 
 
@@ -25,27 +28,34 @@ body {
     position: absolute;
     padding-left: 60px;
     padding-top: 20px;
+    width: 260px;
 }
 .kar2 {
     position: absolute;
     padding-left: 420px;
     padding-top: 20px;
+    width: 260px;
 }
 .kar3 {
     position: absolute;
     padding-left: 800px;
     padding-top: 20px;
+    width: 260px;
 }
 .kar4 {
     position: absolute;
     padding-left: 1180px;
     padding-top: 20px;
+    width: 260px;
 }
 .stroka {
     height:700px;
     padding-left: 0px; 
-    bottom:10px
+    bottom:1830px;
     position: absolute;
+    width: 260px;
+    top: 540px;
+    
 }
 
 
@@ -62,8 +72,8 @@ body {
 
 .tablichka1zagolovok {
     position: absolute;
-    padding-left: 410px;
-    padding-top: 60px;
+    left: 460px;
+    top: 60px;
     font-family: Marvel;
     font-style: normal;
     font-weight: normal;
@@ -74,8 +84,8 @@ body {
     width: 330px;
     height: 320px;
     position: absolute;
-    padding-left: 300px;
-    padding-top: 110px;
+    left: 360px;
+    top: 110px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -121,13 +131,13 @@ body {
 
 .tablichkasdvig2 {
     position: absolute;
-    padding-left: 743px;
+    left: 743px;
     top:800px;
 }
 .tablichka1zagolovok2 {
-    position: absolute;
-    padding-left: 455px;
-    padding-top: 5px;
+  position: absolute;
+    left: 455px;
+    top: 5px;
     font-family: Marvel;
     font-style: normal;
     font-weight: normal;
@@ -138,8 +148,8 @@ body {
     width: 330px;
     height: 320px;
     position: absolute;
-    padding-left: 345px;
-    padding-top: 55px;
+    left: 345px;
+    top: 55px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -147,14 +157,15 @@ body {
     line-height: 26px; 
 }
 .knopka2 {
-    position: absolute;
-    padding-left: 390px;
-    padding-top: 350px;
+  position: absolute;
+    left:430px;
+    top: 300px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
     line-height: 40px;
+    
 }
 .knopka22 {
      width: 140px;
@@ -177,13 +188,13 @@ body {
 
 .tablichkasdvig3 {
     position: absolute;
-    padding-left: 60px;
+    left: 60px;
     top:1200px;
 }
 .tablichka1zagolovok3 {
     position: absolute;
-    padding-left: 410px;
-    padding-top: 60px;
+    left: 130px;
+    top: 5px;
     font-family: Marvel;
     font-style: normal;
     font-weight: normal;
@@ -194,8 +205,8 @@ body {
     width: 330px;
     height: 320px;
     position: absolute;
-    padding-left: 300px;
-    padding-top: 110px;
+    left: 20px;
+    top: 55px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -204,8 +215,8 @@ body {
 }
 .knopka3 {
     position: absolute;
-    padding-left: 380px;
-    padding-top: 350px;
+    left: 100px;
+    top: 300px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -232,13 +243,13 @@ body {
 
 .tablichkasdvig4 {
     position: absolute;
-    padding-left: 800px;
+    left: 800px;
     top:1200px;
 }
 .tablichka1zagolovok4 {
     position: absolute;
-    padding-left: 410px;
-    padding-top: 60px;
+    left: 100px;
+    top: 5px;
     font-family: Marvel;
     font-style: normal;
     font-weight: normal;
@@ -249,8 +260,8 @@ body {
     width: 330px;
     height: 320px;
     position: absolute;
-    padding-left: 300px;
-    padding-top: 110px;
+    left: 50px;
+    top: 55px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -259,8 +270,8 @@ body {
 }
 .knopka4 {
     position: absolute;
-    padding-left: 380px;
-    padding-top: 350px;
+    left: 100px;
+    top: 300px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -285,13 +296,13 @@ body {
 
 .tablichkasdvig5 {
     position: absolute;
-    padding-left: 60px;
+    left: 60px;
     top:1600px;
 }
 .tablichka1zagolovok5 {
     position: absolute;
-    padding-left: 410px;
-    padding-top: 60px;
+    left: 410px;
+    top: 5px;
     font-family: Marvel;
     font-style: normal;
     font-weight: normal;
@@ -302,8 +313,8 @@ body {
     width: 330px;
     height: 320px;
     position: absolute;
-    padding-left: 300px;
-    padding-top: 110px;
+    left: 300px;
+    top: 55px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -312,8 +323,8 @@ body {
 }
 .knopka5 {
     position: absolute;
-    padding-left: 380px;
-    padding-top: 350px;
+    left: 380px;
+    top: 300px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -339,13 +350,13 @@ body {
 
 .tablichkasdvig6 {
     position: absolute;
-    padding-left: 800px;
+    left: 800px;
     top:1600px;
 }
 .tablichka1zagolovok6 {
     position: absolute;
-    padding-left: 410px;
-    padding-top: 60px;
+    left: 60px;
+    top: 5px;
     font-family: Marvel;
     font-style: normal;
     font-weight: normal;
@@ -353,11 +364,11 @@ body {
     line-height: 48px;
 }
 .tablichka1tekst6 {
-    width: 330px;
+    width: 280px;
     height: 320px;
     position: absolute;
-    padding-left: 300px;
-    padding-top: 110px;
+    left: 50px;
+    top: 55px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -366,8 +377,8 @@ body {
 }
 .knopka6 {
     position: absolute;
-    padding-left: 380px;
-    padding-top: 350px;
+    left: 100px;
+    top: 300px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -392,13 +403,13 @@ body {
 
 .tablichkasdvig7 {
     position: absolute;
-    padding-left: 60px;
+    left: 60px;
     top:2000px;
 }
 .tablichka1zagolovok7 {
     position: absolute;
-    padding-left: 410px;
-    padding-top: 60px;
+    left: 80px;
+    top: 5px;
     font-family: Marvel;
     font-style: normal;
     font-weight: normal;
@@ -406,11 +417,11 @@ body {
     line-height: 48px;
 }
 .tablichka1tekst7 {
-    width: 330px;
+    width: 250px;
     height: 320px;
     position: absolute;
-    padding-left: 300px;
-    padding-top: 110px;
+    left: 30px;
+    top: 55px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -419,8 +430,8 @@ body {
 }
 .knopka7 {
     position: absolute;
-    padding-left: 380px;
-    padding-top: 350px;
+    left: 90px;
+    top: 300px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -445,13 +456,13 @@ body {
 
 .tablichkasdvig8 {
     position: absolute;
-    padding-left: 800px;
+    left: 800px;
     top:2000px;
 }
 .tablichka1zagolovok8 {
     position: absolute;
-    padding-left: 410px;
-    padding-top: 60px;
+    left: 350px;
+    top: 5px;
     font-family: Marvel;
     font-style: normal;
     font-weight: normal;
@@ -462,8 +473,8 @@ body {
     width: 330px;
     height: 320px;
     position: absolute;
-    padding-left: 300px;
-    padding-top: 110px;
+    left: 280px;
+    top: 55px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -472,8 +483,8 @@ body {
 }
 .knopka8 {
     position: absolute;
-    padding-left: 380px;
-    padding-top: 350px;
+    left: 380px;
+    top: 300px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -491,6 +502,12 @@ body {
 .knopka88:hover {
     transform: scale(1.5,1.5);
     background-color: azure;
+}
+
+
+
+.Gorafon {
+    top: 50px;
 }
 
 
